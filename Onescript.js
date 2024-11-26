@@ -14,9 +14,9 @@ function updatebutton2(){
    document.getElementById('result').innerText = value1 + value2;
 }
 
-if 
+
 
 function updatebutton3(){
-    document.getElementById('title2').innerText = document.getElementById('inputfield3').value
+    document.getElementById('title2').innerText = document.getElementById('inputfield3').value;
     
 }
